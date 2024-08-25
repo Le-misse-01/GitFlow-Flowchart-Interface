@@ -10,7 +10,7 @@
         <mxCell id="yGrnE1PD_NmoXbB0c2LZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yGrnE1PD_NmoXbB0c2LZ-0" target="yGrnE1PD_NmoXbB0c2LZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yGrnE1PD_NmoXbB0c2LZ-0" value="Membaca bukpan yang sudah dibagikan&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yGrnE1PD_NmoXbB0c2LZ-0" value="Membaca bukpan yang telah dibagikan&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="130" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yGrnE1PD_NmoXbB0c2LZ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="yGrnE1PD_NmoXbB0c2LZ-0">
@@ -41,8 +41,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="yGrnE1PD_NmoXbB0c2LZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yGrnE1PD_NmoXbB0c2LZ-11" target="yGrnE1PD_NmoXbB0c2LZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yGrnE1PD_NmoXbB0c2LZ-11" value="Konfirmasi ke pendamping kelompok" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yGrnE1PD_NmoXbB0c2LZ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yGrnE1PD_NmoXbB0c2LZ-13" target="yGrnE1PD_NmoXbB0c2LZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGrnE1PD_NmoXbB0c2LZ-13" value="Masuk ke grup WA kelompok" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yGrnE1PD_NmoXbB0c2LZ-15" value="Masuk ke Google Classroom kelompok" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
