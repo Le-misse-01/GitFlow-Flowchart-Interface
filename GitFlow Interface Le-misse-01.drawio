@@ -53,8 +53,14 @@
         <mxCell id="yGrnE1PD_NmoXbB0c2LZ-13" value="Masuk ke grup WA kelompok" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yGrnE1PD_NmoXbB0c2LZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yGrnE1PD_NmoXbB0c2LZ-15" target="yGrnE1PD_NmoXbB0c2LZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yGrnE1PD_NmoXbB0c2LZ-15" value="Masuk ke Google Classroom kelompok" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yGrnE1PD_NmoXbB0c2LZ-17" value="Mengikuti Interface:Demo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
